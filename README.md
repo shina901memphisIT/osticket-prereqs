@@ -1,4 +1,4 @@
-<p align="center")
+<p align="center">
 <img src="https://i.imgur.com/C1zj7Xs.png" alt="osTicket logo"/> `</p>
 
 <h1>osTicket - Prerequisites and Installation</h1>
@@ -9,15 +9,23 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 - ### [YouTube: How To Install osTicket with Prerequisites](httos://www.voutube.com)
 
 <h2>Environments and Technologies Used</h2>
-- Microsoft Azure Virtual Machines Compute
+
+- Microsoft Azure (Virtual Machines/Compute)
 - Remote Desktop
-Internet Intormation Services is
-he operating systems used c/nzz
-- windows 10</b> (2152)
+- Internet Intormation Services (IIS)
+
+<h2>Operating Systems Used </h2>
+
+- Windows 10</b> (21H2)
+
 <h2>List of Prerequisites</h2>
-• tem
+
+- Item 1
 - Item 2
-- Item ?
+- Item 3
+- Item 4
+- Item 5
+
 Tron
 <h2 Installation Steps</h2>
 <p>
